@@ -1,5 +1,7 @@
 # CountIt - Industrial Inventory Counter
 
+![CountIt Showcase](../inventory-count.png)
+
 **CountIt** is a demo application that showcases how to use **Grounded Segmentation** to count repeated objects in an image.
 
 By simply describing an object (e.g., "bucket", "rebar", "pipe"), the application uses the Segmentation API to detect every instance, return its bounding box and segmentation mask, and display a total count.

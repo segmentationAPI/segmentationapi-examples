@@ -11,6 +11,14 @@ These demos demonstrate how to use **Grounded Segmentation** (text-to-mask) for 
 | **[CountIt](./count-it)**    | Industrial inventory counter that detects and counts objects (e.g., pipes, rebar) from a single image.       | Inventory Management |
 | **[Redact.ai](./redact-ai)** | Privacy tool that automatically detecting and redacting sensitive information like faces and license plates. | Privacy & Security   |
 
+## Showcase
+
+### CountIt - Automated Inventory Counting
+![CountIt Showcase](./inventory-count.png)
+
+### Redact.ai - Automatic PII Redaction
+![Redact.ai Showcase](./faces-redacted.png)
+
 ## Getting Started
 
 ### Prerequisites

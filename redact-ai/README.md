@@ -1,5 +1,7 @@
 # Redact.ai - Privacy Scrubber
 
+![Redact.ai Showcase](../faces-redacted.png)
+
 **Redact.ai** is a demo application that uses AI to automatically detect and redact sensitive information from images.
 
 It leverages Grounded Segmentation to find specific objects (like "face", "license plate", or "credit card") and generates precise masks to censor them.
